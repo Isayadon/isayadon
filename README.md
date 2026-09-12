@@ -78,14 +78,12 @@
   ♡ ───── ✧ ───── ୨୧ ───── ✧ ───── ♡
 </p>
 
-<br>
-
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
-<h3 align="center">
-  ✧ GitHub ✧
-</h3>
+<p align="center">
+  <strong>✧ GitHub ✧</strong>
+</p>
 
 <p align="center">
   <img
@@ -104,8 +102,6 @@
 <p align="center">
   ♡ ─────── ୨୧ ─────── ♡
 </p>
-
-<br>
 
 
 <!-- ═══════════════════════ DECORATIVE GIF ═══════════════════════ -->
@@ -127,7 +123,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
     alt="cplusplus"
     width="60"
     height="60"
