@@ -95,6 +95,13 @@
 </p>
 
 <p align="center">
+  <img
+    src="https://github-stats-mu-nine.vercel.app/api/top-langs?username=isayadon&layout=compact&title_color=ff69b4&text_color=9b4d74&bg_color=2b2028&border_color=ffb6d9"
+    height="170"
+  />
+</p>
+
+<p align="center">
   ♡ ─────── ୨୧ ─────── ♡
 </p>
 
