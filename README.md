@@ -63,12 +63,6 @@
   <strong>yumemi2</strong>
 </p>
 
-<p>
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="24" height="24" style="vertical-align:middle;">
-  &nbsp;&nbsp;
-  <strong>LinkedIn</strong>
-</p>
-
 </td>
 
 <td align="center" width="35%">
