@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  I'm a Electrical Engineering student at the Federal University of Paraná (UFPR), fluent in English and passionate about aerospace technology, electronics, and innovation. I'm currently learning C++ and developing my programming skills.
+  I'm a Electrical Engineering student at the Federal University of Paraná (UFPR), fluent in English and passionate about aerospace technology and electronics. I'm currently learning C++ and developing my programming skills.
 </p>
 
 <br>
